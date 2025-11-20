@@ -1,2 +1,7 @@
-# EcoHelper-Capstone
-EcoHelper AI Agent – Kaggle Capstone Project
+# EcoHelper AI Agent
+
+![Banner](banner.png)
+
+## Architecture
+
+![Architecture](architecture.png)
